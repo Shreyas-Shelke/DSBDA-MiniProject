@@ -1,0 +1,12 @@
+SrNo,Item,AY (2021-2022),
+,,Unique,Duplicate
+1,Total no. of final year students (N),149,
+2,No. of students placed in companies or Government sector (X),119,179
+3,No. of students appeared for competitive exams,17,
+4,No. of students cleared competitive exams,11,
+5,"No. of students admitted to higher studies with valid qualifying scores (GATE or equivalent National level Tests,GRE,GMAT etc) (Y)",NA,NA
+6,No. Of students turned entrepreneur in engineering/technology (Z),NA,NA
+7,X+Y+Z=,119,179
+8,MinimumPackage,1,
+9,MaximumPackage,15.6,
+10,AveragePackage,4.9,
